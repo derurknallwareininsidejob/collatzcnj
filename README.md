@@ -14,3 +14,7 @@ If you want to read more about this topic:
 
 ## --- usage ---
 > python3 ./XX.py
+
+### Operation Symbols
+* / number was even, divide by 2 (n/2)
+* % number was odd, multiply by 3 and add 1 (3n+1)
